@@ -6,4 +6,19 @@ img {
 .column {
   float: left;
   width: 300px;
+  text-align: center;
+  margin-right: 5px;
+  padding-top: 10px;
+}
+
+.before {
+  background-color: #EFE9F0;
+}
+
+.during {
+  background-color: #D1CCD2;
+}
+
+.after {
+  background-color: #B3AFB4;
 }
